@@ -1,0 +1,6 @@
+{
+  "name": "TSUKUYOMI WATCH",
+  "description": "Intelligent Celestial Sightseeing & Night-Sky Navigation. Location-aware stargazing recommendations, optimal viewing windows, and sky condition analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
